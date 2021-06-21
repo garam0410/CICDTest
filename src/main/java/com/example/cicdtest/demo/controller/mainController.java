@@ -8,6 +8,6 @@ public class mainController {
 
     @GetMapping(path = "/")
     public String test(){
-        return "test";
+        return "바뀌였나 확인해주세요";
     }
 }
